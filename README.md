@@ -2,7 +2,7 @@
 
 ## Copy Profiles into this location C:\Users\yourusername\AppData\Roaming\Dolphin Emulator\Config\Profiles\Wiimote   (Load profile inside dolphin enjoy)/
 
-<bold>Controller Profiles Donkey Kong Barrel Blast 100%</bold>
+<bold>Controller Profiles Donkey Kong Barrel Blast 100%</bold> [Download](https://github.com/objektas/controller-configs-for-dolphin/blob/main/dkbarrelblast%20xboxone.rar)
 
 <h1 align="center">Hi 👋, I'm Objektas</h1>
 <h3 align="center">Emulator fanatic, I'm trying to make hard things easier.</h3>
