@@ -4,7 +4,7 @@
 
 <bold>Controller Profiles Donkey Kong Barrel Blast 100%</bold> [Download](https://github.com/objektas/controller-configs-for-dolphin/blob/main/dkbarrelblast%20xboxone.rar)
 
-<h1 align="center">Hi 👋, I'm Objektas</h1>
+<h1 align="center">Dolphin Xbox One Controller Profiles for Wii Games</h1>
 <h3 align="center">Emulator fanatic, I'm trying to make hard things easier.</h3>
 
 - 🔭 Download Profiles Here [Dolphin-Controller-Profiles](https://github.com/objektas/controller-configs-for-dolphin)
